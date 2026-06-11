@@ -1,0 +1,6 @@
+{
+  "name": "pasarela",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PWA de entrenamiento de respuestas para certamen, con backend serverless que oculta la clave de Groq."
+}
