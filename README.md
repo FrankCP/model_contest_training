@@ -24,4 +24,4 @@ La clave de Groq queda OCULTA en el servidor; las candidatas solo usan una contr
 ## Notas
 - Requiere HTTPS para usar la cámara (Vercel ya lo da).
 - El análisis corporal corre 100% en el navegador (MediaPipe); el video no se sube.
-- Límites del plan gratuito de Groq: ~1.000 evaluaciones y ~2.000 transcripciones al día, compartidas.
+- Límites del plan gratuito de Groq: ~1.000 evaluaciones y ~2.000 transcripciones al día, compartidas
